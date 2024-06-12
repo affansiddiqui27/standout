@@ -1,0 +1,607 @@
+.content{
+    display: flex;
+    margin-left: 300px;
+    top: -900px;
+    position: relative;
+    color: white;
+}
+.loop:hover{
+    color: green;
+    cursor:context-menu;
+}
+
+.loop{
+    margin: 10px;  
+   margin-top: -60px;
+   font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.lock{
+    margin: 40px;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    top: -900px;
+    position: relative;
+    color: white;
+}
+.lop{
+    margin: 10px;  
+    margin-top: -60px;
+    color: green;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+.for{
+    height: 900px;
+    width: 1500px;
+    margin-left:-8px;
+    margin-top: -10px;
+}
+
+.lot{
+width:50px;
+height: 50px;
+top: -980px;
+position: relative;
+margin-left: 900px;
+border-radius: 10px;
+}
+.solve{
+    width:50px;
+height: 50px;
+top: -1030px;
+position: relative;
+margin-left: 1000px;
+border-radius: 10px;
+}
+.dot{
+    width:50px;
+height: 50px;
+top: -1080px;
+position: relative;
+margin-left: 1100px;
+border-radius: 10px;   
+}
+.fore{
+    color: green;
+    position: relative;
+    top: -1000px;
+    margin-left: 200px;
+    
+}
+.hot{
+    position: relative;
+    top: -950px;
+    margin-left: 100px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+   font-size: x-large
+}
+.doss{
+    position: relative;
+    top: -950px;
+    margin-left: 100px;
+    color: rgb(99, 96, 96);
+    font-size: large;
+}
+.most{
+    
+    position: relative;
+    top: -750px;
+    margin-left: 100px;
+    height: 50px;
+    width: 250px;
+    border-radius: 10px;
+    border: none;
+    background-color: #008d44;
+    border-color: #008d44;
+    font-weight: bold;
+    color: white;
+}
+.most:hover{
+    background-color: #2b9e63 ;
+}
+.good{
+    width: 1500px;
+    height:1500px;
+    top: -698px;
+    position: relative;
+    margin-left: -10px ;
+}
+.loo{
+    position: relative;
+    top: -2100px ;
+    margin-left: 450px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: x-large;
+    color: white;
+}
+.froat{
+    margin-left: -50px;
+    color: #000000;
+}
+.float{
+    position: relative;
+    top: -2000px;
+    margin-left: 100px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #000000;
+    
+} 
+.jo{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+.flop{
+    margin-left: 400px;
+    position: relative;
+    top: -230px;
+    transition: background-color 0.5s ease, transform 0.5s ease;
+}
+.joo{
+    margin-left: 400px;
+    position: relative;
+    top: -230px;
+    color: white;
+}
+.get{
+    margin-left: 800px;
+    position: relative;
+    top: -470px;
+}
+.got{
+    margin-left: 800px;
+    position: relative;
+    top: -470px;
+    color: white;
+}
+.you{
+    width: 1200px;
+    position: relative;
+    top: -400px;
+    height: 670px;
+}
+.con{
+    position: relative;
+    top: -300px;
+}
+.goat{
+    position: relative;
+    top: -250px;
+}
+.host{
+    position: relative;
+    top: -540px;
+    margin-left: 260px;
+   
+}
+.bost{
+    position: relative;
+    top: -830px;
+    margin-left: 600px;
+}
+.tost{
+    position: relative;
+    top: -1120px;
+    margin-left: 900px;
+}
+.case{
+    margin-left: -700px;
+    height: 800px;
+    width: 800px;
+}
+.cot{
+    width: 1500px;
+    height:1900px;
+    top: -3100px;
+    position: relative;
+    margin-left: -10px ;
+}
+.more{
+position: relative;
+top:-4900px;
+font-size: larger;
+}
+.k{
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serifa;
+    color: gray;
+    
+}
+.f{
+    color: green;
+}
+.roll{
+    position: relative;
+    top: -4900px;
+    margin-left: 250px;
+}
+.roll>p{
+    color: gray;
+}
+.coat{
+    margin-left: 500px;
+    position: relative;
+    top: -150px;
+
+}
+.coat>p{
+    color: gray ;
+}
+.koll{
+    margin-left: 1px;
+    position: relative;
+    top: -150px;
+}
+.koll>p{
+    color: gray;
+}
+.oll{
+    margin-left: 500px;
+    position: relative;
+    top: -150px;
+}
+.oll>p{
+    color: gray;
+
+}
+.none{
+    height: 50px;
+    width: 50px;
+    margin-left: -70px;
+   position: relative;
+   top: 70px;
+}
+.bob{
+    height: 70px;
+    width: 70px;
+    position: relative;
+    top: 100px;
+    margin-left: -100px;
+  
+}
+.noss{
+    height: 50px;
+    width: 50px;
+    position: relative;
+    top: 70px;
+    margin-left: -100px;
+}
+.vol{
+    height: 50px;
+    width: 50px;
+    position: relative;
+    top: 70px;
+    margin-left: -100px; 
+}
+.log{
+    margin-left: 110px;
+    color: gray;
+}
+.money{
+    margin-left: 110px;
+    top: 50px;
+    position: relative;
+    font-size: 40px;
+}
+.bore{
+    position: relative;
+    top: -200px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.fd{
+    color: rgb(90, 202, 90);
+    
+}
+.zx{
+    margin-left: 130px;
+    position: relative;
+    top: -40px;
+}
+.wa{
+    height: 80px;
+    width: 80px;
+    border-radius: 50px;
+    border-color: #000000;
+    margin-left: -100px;
+    position: relative;
+    top: 70px;
+}
+.no{
+    position: relative;
+    top: -30px;
+}
+.loss{
+    margin-left: 550px;
+    position: relative;
+    top: -370px;
+}
+.lod{
+    margin-left: 700px;
+    position: relative;
+    top: -410px;
+}
+.yes{
+    margin-left: 550px;
+    position: relative;
+    top: -410px;
+}
+.ai{
+    height: 80px;
+    width: 80px;
+    border-radius: 50px;
+    border-color: #000000;
+    margin-left: 450px;
+    position: relative;
+    top: -300px;
+}
+.toy{
+    margin-left: -200px;    
+    position: relative;
+    top: -300px;
+    font-size: 46px;
+
+}
+.voles{
+    margin-left: 220px;
+    position: relative;
+    top:-300px ;
+    font-size: 20px;
+    color: gray;
+}
+.true{
+    position: relative;
+    top: -150px;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.noise{
+    position: relative;
+    top: -150px;
+    font-size: 20px;
+    margin-left: -20px;
+}
+li::marker {
+    color:  rgb(38, 223, 38);
+  }
+.tru{
+    position: relative;
+    top: -150px;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 38px;
+}
+.foam{
+    height: 50px;
+    width: 250px;
+    background: #00a650;
+    border-color: #00a650;
+    color: #FFFFFF;
+    border-radius: 10px;
+    border: none;
+}
+.foam:hover{
+background-color: #9df0c5;
+}
+.longs{
+    border: 1px solid black;
+    width: 300px;
+    margin-left: 300px;
+    position: relative;
+    top: -590px;
+    height: 500px;
+    background-color: #008d44;
+    border: none;
+    border-radius: 6px;
+    
+}
+.can{
+    margin: 40px;
+    color: #FFFFFF;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+    top: 50px;
+}
+.vos{
+    margin-left: 30px;
+    font-size: 58px;
+    position: relative;
+    top: 20px;
+    color: #FFFFFF;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.za{
+    margin-left: 140px;
+    position: relative;
+    top: -50px;
+    color: #FFFFFF;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.job{
+    position: relative;
+    top: -50px;
+    li::marker {
+        color:  rgb(255, 255, 255);
+      }     
+      color: #FFFFFF;
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;    
+}
+.foa{
+    height: 50px;
+    width: 250px;
+    background: #ffffff;
+    border-color: #00a650;
+    color: #000000;
+   border: none ;
+   border-radius: 10px;
+    margin-left: 20px;
+    position: relative;
+    top: -30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.foa:hover{
+    background-color: #9df0c5;
+}
+.quit{
+    position: relative;
+    top: -800px;
+    margin-left:700px;
+}
+.home{
+    background-color: #008d44;
+}
+.vss{
+    width: 1500px;
+    margin-left: -270px;
+    position: relative;
+    top: -700px;
+    height: 600px;
+    
+}
+.aa{
+    height: 600px;
+    position: relative;
+    top: -1300px;
+    width: 400px;
+}
+.many{
+    position: relative;
+    top: -1700px;
+    margin-left: 500px;
+    font-size: 22px;
+}
+.css{
+    height:100px;
+    width: 200px;
+    border-radius: 10px;
+}
+.hs{
+    height:100px;
+    width: 200px;
+    border-radius: 10px;
+    margin-left: 100px;
+}
+.io{
+    width: 1500px;
+    margin-left: -270px;
+    position: relative;
+    top: -1690px;
+    height: 800px;
+}
+.pho{
+    position: relative;
+    top: -2400px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:green;
+    font-size: 38px;
+}
+.ph{
+    position: relative;
+    top: -2400px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(153, 136, 136);
+    
+}
+.hj{
+    position: relative;
+    top: -2405px;
+    margin-left: 603px;
+    height: 50px;
+    width: 300px;
+    border: none;
+    background-color: #4e5853;
+}
+.vc{
+    position: relative;
+    top: -2455px;
+    margin-left: 907px;
+    height: 50px;
+    width: 150px;
+    background-color: #008d44;
+    border: none;
+        }
+     .ds{
+        position: relative;
+        top: -2400px;
+        color: white;
+     }
+     .d{
+        position: relative;
+        top: -2400px;
+        color: rgb(102, 95, 95);
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     }
+     .de{
+        position: relative;
+        top: -2400px;
+        width: 50px;
+        height: 50px;
+        margin-left: -20px;
+     }
+     .ac{
+        position: relative;
+        top: -2400px;
+        width: 40px;
+        height: 40px;
+        margin-left: 10px;
+     }
+     .lo{
+        position: relative;
+        top: -2400px;
+        width: 40px;
+        height: 40px;
+        margin-left: 10px; 
+        
+     }
+     .bog{
+        display: inline-flex;
+       justify-content: space-around;
+        position: relative;
+        top: -2600px;
+        color: rgb(255, 255, 255);
+       margin-left: 20px;
+     }
+     .bog:hover{
+color: green;
+     }
+     .bo{
+        display: inline-flex;
+        justify-content: space-around;
+         position: relative;
+         top: -2560px;
+         color: rgb(255, 255, 255);
+        margin-left: 20px; 
+     }
+     .bot{
+        display: inline-flex;
+        justify-content: space-around;
+         position: relative;
+         top: -2590px;
+         color: rgb(51, 204, 84);
+        margin-left: 20px; 
+     }
+     .g{
+        margin-left: 600px;
+     }
+     .cs{
+        display: inline-flex;
+        justify-content: space-around;
+         position: relative;
+         top: -2590px;
+         color: rgb(112, 116, 113);
+        margin-left: 20px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+     }
+     .op{
+        display: inline-flex;
+        justify-content: space-around;
+         position: relative;
+         top: -2590px;
+         color: rgb(255, 255, 255);
+        margin-left: 20px; 
+     }
+     .op:hover{
+        color: green;
+     }
